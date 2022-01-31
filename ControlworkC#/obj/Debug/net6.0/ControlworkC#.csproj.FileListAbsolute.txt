@@ -1,0 +1,15 @@
+/Users/artoryfagottinogmail.com/Desktop/GeekBrains/ControlWork/ControlWork2/ControlworkC#/bin/Debug/net6.0/ControlworkC#
+/Users/artoryfagottinogmail.com/Desktop/GeekBrains/ControlWork/ControlWork2/ControlworkC#/bin/Debug/net6.0/ControlworkC#.deps.json
+/Users/artoryfagottinogmail.com/Desktop/GeekBrains/ControlWork/ControlWork2/ControlworkC#/bin/Debug/net6.0/ControlworkC#.runtimeconfig.json
+/Users/artoryfagottinogmail.com/Desktop/GeekBrains/ControlWork/ControlWork2/ControlworkC#/bin/Debug/net6.0/ControlworkC#.dll
+/Users/artoryfagottinogmail.com/Desktop/GeekBrains/ControlWork/ControlWork2/ControlworkC#/bin/Debug/net6.0/ref/ControlworkC#.dll
+/Users/artoryfagottinogmail.com/Desktop/GeekBrains/ControlWork/ControlWork2/ControlworkC#/bin/Debug/net6.0/ControlworkC#.pdb
+/Users/artoryfagottinogmail.com/Desktop/GeekBrains/ControlWork/ControlWork2/ControlworkC#/obj/Debug/net6.0/ControlworkC#.csproj.AssemblyReference.cache
+/Users/artoryfagottinogmail.com/Desktop/GeekBrains/ControlWork/ControlWork2/ControlworkC#/obj/Debug/net6.0/ControlworkC#.GeneratedMSBuildEditorConfig.editorconfig
+/Users/artoryfagottinogmail.com/Desktop/GeekBrains/ControlWork/ControlWork2/ControlworkC#/obj/Debug/net6.0/ControlworkC#.AssemblyInfoInputs.cache
+/Users/artoryfagottinogmail.com/Desktop/GeekBrains/ControlWork/ControlWork2/ControlworkC#/obj/Debug/net6.0/ControlworkC#.AssemblyInfo.cs
+/Users/artoryfagottinogmail.com/Desktop/GeekBrains/ControlWork/ControlWork2/ControlworkC#/obj/Debug/net6.0/ControlworkC#.csproj.CoreCompileInputs.cache
+/Users/artoryfagottinogmail.com/Desktop/GeekBrains/ControlWork/ControlWork2/ControlworkC#/obj/Debug/net6.0/ControlworkC#.dll
+/Users/artoryfagottinogmail.com/Desktop/GeekBrains/ControlWork/ControlWork2/ControlworkC#/obj/Debug/net6.0/ref/ControlworkC#.dll
+/Users/artoryfagottinogmail.com/Desktop/GeekBrains/ControlWork/ControlWork2/ControlworkC#/obj/Debug/net6.0/ControlworkC#.pdb
+/Users/artoryfagottinogmail.com/Desktop/GeekBrains/ControlWork/ControlWork2/ControlworkC#/obj/Debug/net6.0/ControlworkC#.genruntimeconfig.cache
